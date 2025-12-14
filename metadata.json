@@ -1,0 +1,8 @@
+{
+  "name": "EcoSphere",
+  "description": "An AI-powered sustainability app for saving energy, conserving water, managing waste, and civic action.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
